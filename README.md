@@ -39,16 +39,7 @@
 ---
 
 ### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-sid@gmail.com-red?style=flat&logo=gmail)](mailto:sid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-sidnight3@gmail.com-red?style=flat&logo=gmail)](mailto:sidnight3@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sid00011&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid00011&layout=compact&theme=radical" height="150"/>
-</p>
-
----
 
 <p align="center"><i>“Build. Secure. Learn. Repeat.”</i></p>
