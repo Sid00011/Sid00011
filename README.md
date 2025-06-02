@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-sidali.dev@proton.me-red?style=flat&logo=gmail)](mailto:sidali.dev@proton.me)
+[![Email](https://img.shields.io/badge/Email-sid@gmail.com-red?style=flat&logo=gmail)](mailto:sid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
 
 ---
@@ -52,4 +52,3 @@
 ---
 
 <p align="center"><i>“Build. Secure. Learn. Repeat.”</i></p>
-
