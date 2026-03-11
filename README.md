@@ -1,45 +1,33 @@
-<h1 align="center">Hi there 👋 I'm Sidali</h1>
-<p align="center">Full Stack Developer • Cybersecurity Enthusiast • AI Learner</p>
+# Salut 👋 Moi c'est Sidali Mezaourou
+
+**Ingénieur Infrastructure Cloud & Cybersécurité** | **M1 Informatique @ Lyon 1**
+*Build. Secure. Scale. Repeat.*
+
+### 🚀 À propos de moi
+* [cite_start]🔐 **Spécialiste Cybersécurité :** Focus sur le durcissement d'infrastructures, le Zero-Trust et l'automatisation de la menace[cite: 1, 60].
+* [cite_start]☁️ **Passionné Cloud & DevOps :** Déploiement d'architectures résilientes multi-nœuds avec Kubernetes et Ansible[cite: 34, 82].
+* [cite_start]🛡️ **Chercheur en Sécurité :** Travaux actuels sur l'observabilité eBPF et la détection de Ransomwares en temps réel[cite: 43, 89].
+* [cite_start]🎓 **Parcours Académique :** Master 1 SSI (USTHB) & Master 1 Informatique (Université Lyon 1)[cite: 17, 65].
 
 ---
 
-### 🚀 About Me
-- 🎓 Master’s in Computer Science  
-- 🔐 Cybersecurity Focus — Wi-Fi Attacks, Anti-Ransomware, Cryptography  
-- 💻 MERN Stack Developer — Real-time apps, e-commerce, dashboards  
-- 🎨 Designer — Figma & Photoshop  
-- 📱 Mobile — Cross-platform apps with Flutter  
-- 🧠 Exploring AI & Data Science  
+### 🛠️ Stack Technique
+* **Langages :** Python (Scripting Sécurité), Bash, JavaScript (Node.js), C/C++, SQL.
+* [cite_start]**Infrastructure & Sécurité :** Kubernetes (K8s), Docker, Ansible, Terraform, GNS3[cite: 34, 40, 81].
+* [cite_start]**Outils de Sécurité :** Nmap, Trivy, Hashicorp Vault, Firewalls Fortinet, Wireshark[cite: 11, 37, 41, 83].
+* [cite_start]**Réseaux :** BGP/OSPF, Segmentation DMZ, WPA2-EAP-TLS, eBPF (Cilium)[cite: 40, 42, 86].
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** JavaScript, Python, Dart, C/C++, SQL  
-**Frontend:** React, Tailwind, Figma, HTML/CSS  
-**Backend:** Node.js, Express, Django  
-**Database:** MongoDB, MySQL, PostgreSQL  
-**Tools:** Git, Linux, Kali, Docker, Nmap, Wireshark, Socket.IO  
+### 📌 Projets Phares
+
+* 🚀 **[k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark)** – Analyse comparative des performances CNI (Cilium/eBPF, Calico, Flannel) sur des clusters de production.
+* [cite_start]🛡️ **[Anti-Ransomware](https://github.com/Sid00011/Anti-Ransomware)** – Scripts de détection comportementale en temps réel et automatisation des rapports SOC/CERT[cite: 44, 89].
+* [cite_start]🔐 **[Zero-Trust-K8s-Lab](https://github.com/Sid00011/Sid00011)** – Infrastructure multi-nœuds automatisée avec scans Trivy intégrés et gestion des secrets via Vault[cite: 36, 83].
+* [cite_start]⚡ **[Sonelgaz-Automation](https://github.com/Sid00011/infoGraphic)** – Système Python/Django pour la gestion de flux critiques, RBAC et déploiement automatisé de correctifs[cite: 30, 78].
 
 ---
 
-### 📌 Projects
-- ✅ **Salary Automation for Sonelgaz** – Employee pay + evaluation system  
-- 💬 **Real-Time Chat App** – WebSocket, React, Node  
-- 🛍️ **E-commerce Site** – Stripe, cart, auth, orders  
-- 🔐 **WPA2 Enterprise Lab** – Securing WLAN with Active Directory  
-- 🌐 **GNS3 BGP Network** – Simulating enterprise routing with ISPs  
-
----
-
-### 📚 Currently Learning
-- 🧠 AI & Machine Learning  
-- 🌐 Three.js + react-three/fiber  
-- 🔓 Advanced PenTesting & Red Teaming  
-
----
-
-### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-sidnight3@gmail.com-red?style=flat&logo=gmail)](mailto:sidnight3@gmail.com)
-
-
-<p align="center"><i>“Build. Secure. Learn. Repeat.”</i></p>
+### 📊 Apprentissage & Stats
+* 🧠 **En cours :** Observabilité avancée avec eBPF pour la sécurité & Red Teaming.
+* 📫 **Contact :** [LinkedIn](https://linkedin.com/in/sidalimezaourou/) | [Email](mailto:mezaourou.sidali@gmail.com).
