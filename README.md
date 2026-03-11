@@ -30,4 +30,4 @@
 
 ### 📊 Apprentissage & Stats
 * 🧠 **En cours :** Observabilité avancée pour la sécurité & Red Teaming.
-* 📫 **Contact :** [LinkedIn](https://linkedin.com/in/Sidali/) | [cite_start][Email](mailto:) [cite: 7, 8]
+* 📫 **Contact :** [LinkedIn](https://linkedin.com/in/Sidali/) | [cite_start][Email](mailto:) 
