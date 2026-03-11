@@ -1,4 +1,4 @@
-# Salut 👋 Moi c'est Sidali Mezaourou
+# Salut 👋 Moi c'est Sidali 
 
 **Ingénieur Infrastructure Cloud & Cybersécurité** | **M1 Informatique @ Lyon 1**
 *Build. Secure. Scale. Repeat.*
