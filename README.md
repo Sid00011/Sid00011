@@ -1,4 +1,4 @@
-# Salut 👋 Moi c'est Sidali 
+[# Salut 👋 Moi c'est Sidali 
 
 **Ingénieur Infrastructure Cloud & Cybersécurité** | **M1 Informatique @ Lyon 1**
 *Build. Secure. Scale. Repeat.*
@@ -31,3 +31,4 @@
 ### 📊 Apprentissage & Stats
 * 🧠 **En cours :** Observabilité avancée avec eBPF pour la sécurité & Red Teaming.
 * 📫 **Contact :** [LinkedIn](https://linkedin.com/in/sidalimezaourou/) | [Email](mailto:mezaourou.sidali@gmail.com).
+](https://github.com/Sid00011/k8s-devsecops-project)
