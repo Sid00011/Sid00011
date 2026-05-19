@@ -21,7 +21,7 @@ dynamic secret injection via HashiCorp Vault, and full IaC with Ansible.
 Monitors filesystem and process behavior to detect ransomware patterns before encryption completes.
 Automated incident response via SOC/CERT APIs.
 
-**[k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark)** — Kubernetes CNI performance study  
+**[k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark)** - Kubernetes CNI performance study  
 Benchmarked Cilium, Calico, Kube-OVN, and Flannel across 14 TCP/UDP metrics.
 Cilium reached 2.28 Gbps with zero retransmission via eBPF kernel bypass.
 
