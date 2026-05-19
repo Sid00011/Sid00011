@@ -1,33 +1,45 @@
-# Salut 👋 Moi c'est Sidali 
+# Hey, I'm Sidali
 
-**Ingénieur Infrastructure Cloud & Cybersécurité** | **M1 Informatique @ Lyon 1**
-*Build. Secure. Scale. Repeat.*
-
-### 🚀 À propos de moi
-* 🔐 **Spécialiste Cybersécurité :** Focus sur le durcissement d'infrastructures, le Zero-Trust et l'automatisation de la menace. 
-* ☁️ **Passionné Cloud & DevOps :** Déploiement d'architectures résilientes multi-nœuds avec Kubernetes et Ansible. 
-* 🛡️ **Chercheur en Sécurité :** Travaux actuels sur l'observabilité réseau et la détection de Ransomwares en temps réel.
-* 🎓 **Parcours Académique :** Master 1 SSI (USTHB) & Master 1 Informatique (Université Lyon 1).
+I'm a cybersecurity and infrastructure student (M1 @ Université Lyon 1).
+I build things — offensive tools, hardened cloud infrastructure, detection systems.
+Most of my work lives at the intersection of security and engineering.
 
 ---
 
-### 🛠️ Stack Technique
-* **Langages :** Python (Scripting Sécurité), Bash, JavaScript (Node.js), C/C++, SQL. 
-* **Infrastructure & Sécurité :** Kubernetes (K8s), Docker, Ansible, Terraform, GNS3. 
-* **Outils de Sécurité :** Nmap, Trivy, Hashicorp Vault, Firewalls Fortinet, Wireshark.
-* **Réseaux :** BGP/OSPF, Segmentation DMZ, WPA2-EAP-TLS, eBPF (Cilium). 
+## What I've been building
+
+**[Zparty](https://github.com/Sid00011/zparty)** — automated web penetration testing framework  
+30+ vulnerability modules, local AI exploit engine, Tor anonymity, live browser UI.
+Full pipeline: recon → scan → exploit → CVSS-scored HTML report.
+Built in Python with asyncio, FastAPI, Playwright, and Ollama.
+
+**[k8s-devsecops-project](https://github.com/Sid00011/k8s-devsecops-project)** — hardened cloud-native infrastructure  
+Multi-node Kubernetes cluster with automated CI/CD, zero CVE policy enforced by Trivy,
+dynamic secret injection via HashiCorp Vault, and full IaC with Ansible.
+
+**[Anti-Ransomware](https://github.com/Sid00011/Anti-Ransomware)** — real-time behavioral detection  
+Monitors filesystem and process behavior to detect ransomware patterns before encryption completes.
+Automated incident response via SOC/CERT APIs.
+
+**[k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark)** — Kubernetes CNI performance study  
+Benchmarked Cilium, Calico, Kube-OVN, and Flannel across 14 TCP/UDP metrics.
+Cilium reached 2.28 Gbps with zero retransmission via eBPF kernel bypass.
+
+**[zerotrust-evasion-detection](https://github.com/Sid00011/zerotrust-evasion-detection)** — security research  
+Study of detection evasion in Zero-Trust environments — 4 MITRE ATT&CK vectors,
+VMware/ELK lab scenario, original 8-criteria maturity grid.
 
 ---
 
-### 📌 Projets Phares
-
-* 🔐 **[k8s-devsecops-project](https://github.com/Sid00011/k8s-devsecops-project)** – Infrastructure multi-nœuds automatisée (Ansible) avec sécurité Zero-Trust, scans Trivy et gestion des secrets via Vault. [cite: 35, 36, 37]
-* 🚀 **[k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark)** – Analyse comparative des performances réseau sous Kubernetes (Cilium, Calico, Flannel).
-* 🛡️ **[Anti-Ransomware](https://github.com/Sid00011/Anti-Ransomware)** – Détection comportementale en temps réel et automatisation de la réponse aux incidents via APIs SOC/CERT. [cite: 43, 44]
-* [cite_start]⚡ **[Sonelgaz-Automation](https://github.com/Sid00011/infoGraphic)** – Système Python/Django pour la gestion de flux critiques, RBAC et Maintien en Condition de Sécurité (MCS). [cite: 30, 31, 32]
+## Stack
+Languages Python · Bash · C/C++ · JavaScript · SQL
+Security Nmap · Wireshark · Burp Suite · Metasploit · Trivy · Vault
+Cloud/Infra Kubernetes · Docker · Ansible · Terraform · GNS3
+Networking BGP · OSPF · DMZ segmentation · WPA2-EAP-TLS · eBPF (Cilium)
 
 ---
-
-### 📊 Apprentissage & Stats
-* 🧠 **En cours :** Observabilité avancée pour la sécurité & Red Teaming.
-* 📫 **Contact :** [LinkedIn](https://linkedin.com/in/sidalimezaourou/) | [Email](mailto:mezaourou.sidali@gmail.com) 
+## Currently
+- M1 Informatique @ Université Lyon 1
+- Looking for an alternance or internship in cybersecurity (offensive or DevSecOps)
+---
+*[LinkedIn](your-linkedin-url) · sidnight3@gmail.com*
