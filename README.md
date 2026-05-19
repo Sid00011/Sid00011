@@ -40,6 +40,5 @@ Networking BGP · OSPF · DMZ segmentation · WPA2-EAP-TLS · eBPF (Cilium)
 ---
 ## Currently
 - M1 Informatique @ Université Lyon 1
-- Looking for an alternance or internship in cybersecurity (offensive or DevSecOps)
+- Looking for an alternance or internship in cybersecurity 
 ---
-*[LinkedIn](your-linkedin-url) · sidnight3@gmail.com*
