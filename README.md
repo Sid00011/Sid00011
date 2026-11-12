@@ -1,44 +1,38 @@
-# Hey, I'm Sidali
+# Sidali
 
-I'm a cybersecurity and infrastructure student (M1 @ Université Lyon 1).
-I build things - offensive tools, hardened cloud infrastructure, detection systems.
-Most of my work lives at the intersection of security and engineering.
+Cybersecurity and infrastructure student: M2 at Université Paris-Saclay (2026–2027), after an M1 at
+Université Claude Bernard Lyon 1. I build security tooling and test it honestly: defender
+evaluation, hardened Kubernetes infrastructure and detection research.
 
----
+**Looking for an end-of-studies internship in cybersecurity from April 2027, and open to full-time
+roles.** · [LinkedIn](https://www.linkedin.com/in/Sidali/)
 
-## What I've been building
+## Flagwake
 
-**[Zparty](https://github.com/Sid00011/zparty)** - automated web penetration testing framework  
-30+ vulnerability modules, local AI exploit engine, Tor anonymity, live browser UI.
-Full pipeline: recon → scan → exploit → CVSS-scored HTML report.
-Built in Python with asyncio, FastAPI, Playwright, and Ollama.
+A free, offline test of how an AI security defender behaves during an incident. A defender works
+through simulated incidents in an invented company and is scored in business cost. Every result can
+be re-checked from the stored commands, and an edited report fails.
 
-**[k8s-devsecops-project](https://github.com/Sid00011/k8s-devsecops-project)** - hardened cloud-native infrastructure  
-Multi-node Kubernetes cluster with automated CI/CD, zero CVE policy enforced by Trivy,
-dynamic secret injection via HashiCorp Vault, and full IaC with Ansible.
+- Works with any defender: a program, a model endpoint, or a product with its own tools (MCP or REST)
+- Releases are built by GitHub Actions and published to PyPI with signed provenance
+- `pip install flagwake` · [Repository](https://github.com/Sid00011/Flagwake) · [PyPI](https://pypi.org/project/flagwake/)
 
-**[Anti-Ransomware](https://github.com/Sid00011/Anti-Ransomware)** - real-time behavioral detection  
-Monitors filesystem and process behavior to detect ransomware patterns before encryption completes.
-Automated incident response via SOC/CERT APIs.
+## Selected projects
 
-**[k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark)** - Kubernetes CNI performance study  
-Benchmarked Cilium, Calico, Kube-OVN, and Flannel across 14 TCP/UDP metrics.
-Cilium reached 2.28 Gbps with zero retransmission via eBPF kernel bypass.
+| project | what it is |
+|---|---|
+| [k8s-cni-benchmark](https://github.com/Sid00011/k8s-cni-benchmark) | Cilium, Calico, Kube-OVN and Flannel compared on 14 TCP/UDP metrics on a multi-node cluster. Cilium reached 2.28 Gbps TCP with 0 retransmissions in this setup, using eBPF routing that bypasses iptables. |
+| [k8s-devsecops-project](https://github.com/Sid00011/k8s-devsecops-project) | Multi-node Kubernetes with a DevSecOps pipeline: Ansible provisioning, Trivy image scanning as a CI gate, HashiCorp Vault for dynamic secrets. |
+| [zerotrust-evasion-detection](https://github.com/Sid00011/zerotrust-evasion-detection) | Research on evading detection in Zero-Trust setups: four vectors mapped to MITRE ATT&CK, a pass-the-cookie lab (Keycloak, ELK, Evilginx2) and an 8-dimension maturity grid aligned with ANSSI and NIS2. |
+| [cloud-cosmographer](https://github.com/Sid00011/cloud-cosmographer) | Read-only AWS resource graph and misconfiguration mapper, tested against moto. |
+| [zparty](https://github.com/Sid00011/zparty) | Web application security testing framework for authorised engagements: recon, 30+ vulnerability checks, CVSS-scored reports, optional local LLM (Ollama). |
+| [Anti-Ransomware](https://github.com/Sid00011/Anti-Ransomware) | Windows ransomware detection prototype: real-time filesystem monitoring, hash matching and an SVM classifier on PE features. |
+| [secure-voip-ha-lab](https://github.com/Sid00011/secure-voip-ha-lab) | Secure, highly available VoIP lab: Asterisk, Kamailio, TLS/SRTP, keepalived, SIPp load tests. |
+| [AdaptiveFlow](https://github.com/Sid00011/AdaptiveFlow-) | Research prototype: a self-tuning scheduler for streaming workflows (HEFT-LC, Q-learning, MAPE-K controller). |
 
-**[zerotrust-evasion-detection](https://github.com/Sid00011/zerotrust-evasion-detection)** - security research  
-Study of detection evasion in Zero-Trust environments - 4 MITRE ATT&CK vectors,
-VMware/ELK lab scenario, original 8-criteria maturity grid.
+## Tools I work with
 
----
-
-## Stack
-Languages Python · Bash · C/C++ · JavaScript · SQL
-Security Nmap · Wireshark · Burp Suite · Metasploit · Trivy · Vault
-Cloud/Infra Kubernetes · Docker · Ansible · Terraform · GNS3
-Networking BGP · OSPF · DMZ segmentation · WPA2-EAP-TLS · eBPF (Cilium)
-
----
-## Currently
-- M1 Informatique @ Université Lyon 1
-- Seeking alternance in cybersecurity — available September 2026
----
+**Security** Burp Suite · Metasploit · Nmap · Wireshark · Trivy · Vault · ELK  
+**Cloud and infrastructure** Kubernetes · Docker · Ansible · Terraform · AWS  
+**Networking** BGP · OSPF · DMZ segmentation · WPA2-EAP-TLS · eBPF (Cilium)  
+**Languages** Python · Bash · C/C++ · JavaScript · SQL
