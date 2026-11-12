@@ -1,6 +1,6 @@
 # Sidali
 
-Cybersecurity and infrastructure student, M2 at Université Paris-Saclay. Looking for an
+Cybersecurity student in the M2 SeCReTS at Université Paris-Saclay (2026–2027). Looking for an
 end-of-studies internship in cybersecurity from April 2027, and open to full-time roles.
 [LinkedIn](https://www.linkedin.com/in/sidalimezaourou/)
 
